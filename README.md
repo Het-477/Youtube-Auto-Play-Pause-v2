@@ -1,4 +1,4 @@
-# Youtube auto Play & Pause
+# Youtube auto Play & Pause Chrome Extension 
 
 - Note: this is the 2nd version of this extension cuz i accedentaly fxd up somethings in the first repo
 
